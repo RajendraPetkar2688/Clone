@@ -8,6 +8,7 @@ class Person {
 
     static constraints = {
         email email: true
+        address address: true
 
     }
 }
